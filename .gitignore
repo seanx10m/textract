@@ -1,0 +1,14 @@
+# Build output
+build/
+
+# Preview / scratch artifacts
+scratch/
+.previews/
+
+# macOS
+.DS_Store
+
+# Editor cruft
+*.swp
+.vscode/
+.idea/
